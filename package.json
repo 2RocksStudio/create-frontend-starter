@@ -1,6 +1,6 @@
 {
   "name": "create-frontend-starter",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Front end starter CLI",
   "type": "module",
   "main": "bin/cli.js",
